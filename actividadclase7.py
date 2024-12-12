@@ -337,7 +337,7 @@ class Samurai():
 def personaje_defender(personaje):
     personaje.defender()
 
-# Ejemplo de uso
+
 mago = Mago()
 arquero = Arquero()
 samurai = Samurai()
